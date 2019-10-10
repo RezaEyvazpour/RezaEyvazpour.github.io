@@ -20,7 +20,11 @@ Research Interest
 ======
 My research interests include: Computer Vision, Signal Processing, Embedded Image Processing and Hardware Acceleration in Machine Vision and Machine Learning. 
 My Main Topic are in the following fields:
-  Hardware Implementation (FPGA-based Implementation)
-  Machine Vision, SLAM
-  Machine Learning, Deep learning 
-  Biomedical Engineering
+
+    Hardware Implementation (FPGA-based Implementation)
+  
+    Machine Vision, SLAM
+  
+    Machine Learning, Deep learning 
+  
+    Biomedical Engineering
