@@ -15,7 +15,6 @@ I am a second year Master’s student in Department of Electrical and computer e
 I received my Bachelor’s in Electronic Engineering from University of Bonab, Bonab, IRAN, where I worked under guidance of Dr. Fariborz Rahimi on studying techniques to assessment of spasticity. I worked also as a Teacher Assistant.
 
 ## Research Interest   
-======
 My research interests include: Computer Vision, Signal Processing, Embedded Image Processing and Hardware Acceleration in Machine Vision and Machine Learning.
 
 My Main Topic are in the following fields:
