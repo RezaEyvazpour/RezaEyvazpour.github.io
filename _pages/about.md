@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+{: .text-justify}
 
 I am a second year Master’s student in Department of Electrical and computer engineering at Tabriz University. I have been working as a Master student at Digital Systems Laboratory under supervision of DR. Ghader Karimian Khosroshahi since November 2017. I devote most of my time to the Hardware Implementation of SLAM algorithm.
 
