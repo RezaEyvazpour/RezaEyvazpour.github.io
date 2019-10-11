@@ -10,8 +10,7 @@ redirect_from:
 
 
 
-I am a second year Master’s student in Department of Electrical and computer engineering at Tabriz University. I have been working as a Master student at Digital Systems Laboratory under supervision of DR. Ghader Karimian Khosroshahi since November 2017. I devote most of my time to the Hardware Implementation of SLAM algorithm.{: .text-justify}
-
+I am a second year Master’s student in Department of Electrical and computer engineering at Tabriz University. I have been working as a Master student at Digital Systems Laboratory under supervision of DR. Ghader Karimian Khosroshahi since November 2017. I devote most of my time to the Hardware Implementation of SLAM algorithm.
 I received my Bachelor’s in Electronic Engineering from University of Bonab, Bonab, IRAN, where I worked under guidance of Dr. Fariborz Rahimi on studying techniques to assessment of spasticity. I worked also as a Teacher Assistant.
 
 ## Research Interest   
