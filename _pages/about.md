@@ -24,7 +24,7 @@ My Main Topic are in the following fields:
 * Machine Learning, Deep learning  
 
 # News  
-## Novamber 2019
+Novamber 2019
 Our paper “...” is accepted by the ...(IRAN) journal.
   
   
