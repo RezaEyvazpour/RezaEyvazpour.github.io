@@ -1,5 +1,5 @@
 ---
-title: "DSP-HW"
+title: "Digital Signal Processing Hardware Implementation"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-1
