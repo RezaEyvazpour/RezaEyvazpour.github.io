@@ -9,8 +9,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 ## 2020
 ------------------------------------------------------------------------------------------------------------
-* ## Objective assessment of spasticity by pendulum test: a systematic review on methods of implementation and outcome measures
-Proposing a Fast and Scalable Systolic Array to Implement Matrix Multiplications [Slides]
+* **Objective assessment of spasticity by pendulum test: a systematic review on methods of implementation and outcome measures**
 Fariborz rahimi, Reza Eyvazpour, Nazila Salahshour, Mahmood Reza Azghani
 BMCneurology
 
