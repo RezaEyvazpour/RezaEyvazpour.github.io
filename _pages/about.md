@@ -29,8 +29,7 @@ News
 * [March ’20] Our paper “Objective assessment of spasticity by pendulum test: a systematic review on methods of implementation
 and outcome measures” is submetted to BMCneurology.
 {: .text-justify}
-* [Jan ’20] Our paper “Objective assessment of spasticity by pendulum test: a systematic review on methods of implementation
-and outcome measures” is submetted to Journal of Advanced Signal Processing.
+* [Jan ’20] Our paper “Crossing obstacles in a walkway: on the capability of wavelet-based detection strategies using wearable sensor data” is submetted to Journal of Advanced Signal Processing.
 {: .text-justify}
 
 
