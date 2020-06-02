@@ -16,7 +16,6 @@ I received my Bachelor’s in Electronic Engineering from University of Bonab, B
 {: .text-justify}
 The latest version(3-13-2020) of my CV is accessible [here](http://RezaEyvazpour.github.io/files/cv.pdf).
 # Research Interest
-======
 My research interests include: Computer Vision, Signal Processing, Embedded Image Processing and Hardware Acceleration in Machine Vision and Machine Learning.
 {: .text-justify}
 My Main Topic are in the following fields:
@@ -28,9 +27,11 @@ My Main Topic are in the following fields:
 News
 ======
 * [March ’20] Our paper “Objective assessment of spasticity by pendulum test: a systematic review on methods of implementation
-and outcome measures” is submetted to BMCneurology.{: .text-justify}
+and outcome measures” is submetted to BMCneurology.
+{: .text-justify}
 * [Jan ’20] Our paper “Objective assessment of spasticity by pendulum test: a systematic review on methods of implementation
-and outcome measures” is submetted to Journal of Advanced Signal Processing.{: .text-justify}
+and outcome measures” is submetted to Journal of Advanced Signal Processing.
+{: .text-justify}
 
 
   
