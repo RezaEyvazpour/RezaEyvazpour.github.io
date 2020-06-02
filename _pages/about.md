@@ -24,8 +24,13 @@ My Main Topic are in the following fields:
 * Machine Learning, Deep learning  
 * Machine Vision
 
-# News  
-* March 2020 => Our paper “Objective assessment of spasticity by pendulum test: a systematic review on methods of implementation
+Education
+======
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+March 2020 => Our paper “Objective assessment of spasticity by pendulum test: a systematic review on methods of implementation
 and outcome measures” is submetted  in Journal of NeuroEngineering and Rehabilitation.
 {: .text-justify}
 * january 2020 => Our paper “Crossing obstacles in a walkway: on the capability of wavelet-based detection strategies using wearable
