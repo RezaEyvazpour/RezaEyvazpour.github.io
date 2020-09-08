@@ -14,7 +14,7 @@ Fariborz Rahimi, Reza Eyvazpour, Nazila Salahshour, Mahmood Reza Azghani
 Journal of Medical Signals & Sensors, 2020, (Submitted)
 
 * **An Accelerometer-Based Objective Assessment of Spasticity: A Simple Pendulum Model to Evaluate Outcome Measures**  
-Fariborz Rahimi, Nazila Salahshour, Reza Eyvazpour, and Mahmood Reza Azghani
+Fariborz Rahimi, Nazila Salahshour, Reza Eyvazpour, and Mahmood Reza Azghani 
 International Iranian conference on Biomedical Engineering (ICBME 2020), 2020, (Submitted)
 
 * **Objective assessment of spasticity by pendulum test: a systematic review on methods of implementation and outcome measures**  
