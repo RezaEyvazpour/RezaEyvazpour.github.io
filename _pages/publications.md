@@ -9,7 +9,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## 2020
 ------------------------------------------------------------------------------------------------------------
 * **Electroencephalographic Activity in Patients with Claustrophobia: A Pilot Study**  
-Dunya, Reza Eyvazpour, Fariborz Rahimi, Seyed Hossein Rasta‬, Mahdad Esmaeili
+Dunya, Reza Eyvazpour, Fariborz Rahimi, Seyed Hossein Rasta‬, Mahdad Esmaeili  
 Journal of Medical Signals & Sensors, 2020, (Submitted)
 
 * **An Accelerometer-Based Objective Assessment of Spasticity: A Simple Pendulum Model to Evaluate Outcome Measures**  
