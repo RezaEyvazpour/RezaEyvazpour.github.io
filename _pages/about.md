@@ -16,16 +16,18 @@ I received my Bachelor’s in Electronic Engineering from University of Bonab, B
 {: .text-justify}
 The latest version(3-13-2020) of my CV is accessible [here](http://RezaEyvazpour.github.io/files/cv.pdf) if you want to know more about me.
 # Research Interest
-My research interests include: Computer Vision, Signal Processing, Embedded Image Processing and Hardware Acceleration in Machine Vision and Machine Learning.
+My research interests include: Biomedical Signal Processing,Signal/Image Processing, Embedded Image Processing and Hardware Acceleration in Machine Vision and Machine Learning.
 {: .text-justify}
 My Main Topic are in the following fields:
+* Biomedical Signal/Image Processing 
 * Hardware Implementation (FPGA-based Implementation) 
-* Biomedical Signal Processing 
 * Machine Learning, Deep learning  
 * Machine Vision
 
-News
+Recent News
 ======
+* Sep ’20: I successfully defended my  Master thesis with the title" Hardware Implementation of Pose estimation algorithm for Augmented reality.
+
 * March ’20: Our paper “Objective assessment of spasticity by pendulum test: a systematic review on methods of implementation
 and outcome measures” is submetted to BioMedical Engineering OnLine.
 {: .text-justify}
