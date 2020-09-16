@@ -14,7 +14,7 @@ I am a third year Master’s student in Department of Electrical and computer en
 {: .text-justify}
 I received my Bachelor’s in Electronic Engineering from University of Bonab, Bonab, IRAN, where I worked under guidance of Dr. Fariborz Rahimi on studying techniques to assessment of spasticity. I worked also as a Teacher Assistant.
 {: .text-justify}
-The latest version(3-13-2020) of my CV is accessible [here](http://RezaEyvazpour.github.io/files/cv.pdf) if you want to know more about me.
+The latest version(9-15-2020) of my CV is accessible [here](http://RezaEyvazpour.github.io/files/cv.pdf) if you want to know more about me.
 # Research Interest
 My research interests include: Biomedical Signal Processing,Signal/Image Processing, Embedded Image Processing and Hardware Acceleration in Machine Vision and Machine Learning.
 {: .text-justify}
