@@ -10,9 +10,8 @@ redirect_from:
 
 
 
-I am a third year Master’s student in Department of Electrical and computer engineering at Tabriz University. I have been working as a Master student at Digital Systems Laboratory under supervision of Dr. Ghader Karimian Khosroshahi since November 2017. I devote most of my time to the Hardware Implementation of Camera Pose Estimation(Visual Odometry) algorithm.
-{: .text-justify}
-I received my Bachelor’s in Electronic Engineering from University of Bonab, Bonab, IRAN, where I worked under guidance of Dr. Fariborz Rahimi on studying techniques to assessment of spasticity. I worked also as a Teacher Assistant.
+I am now a Researcher at theuniversity of Tabriz, under guidance of  Dr. Fariborz Rahimi and Dr. Somayeh Heysieattalab. Before that, I obtained my Ms.c degree in the Department of Electrical and computer engineering at Tabriz University, supervised by Dr. Ghader Karimian in September 2020. I received B. Eng. degree in Electronic Engineering from University of Bonab, Bonab, Iran, June 2017. I worked with Dr. Fariborz Rahimi for undergraduate research.
+
 {: .text-justify}
 The latest version(9-15-2020) of my CV is accessible [here](http://RezaEyvazpour.github.io/files/cv2.pdf) if you want to know more about me.
 # Research Interest
