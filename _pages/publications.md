@@ -16,9 +16,9 @@ Journal of Medical Signals & Sensors, 2020, (Under Review)
 Fariborz Rahimi, Nazila Salahshour, Reza Eyvazpour, and Mahmood Reza Azghani    
 International Iranian conference on Biomedical Engineering (ICBME 2020), 2020, (Accepted)
 
-* **Objective assessment of spasticity by pendulum test: a systematic review on methods of implementation and outcome measures**  
+* **Objective assessment of spasticity by pendulum test: a systematic review on methods of implementation and outcome measures[<u><a href="https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-020-00826-8">Paper</a>.</u>]**  
 Fariborz Rahimi, Reza Eyvazpour, Nazila Salahshour, and Mahmood Reza Azghani  
-BioMedical Engineering OnLine, 2020, (Accepted)
+BioMedical Engineering OnLine, 2020, 
 
 * **Crossing obstacles in a walkway: on the capability of wavelet-based detection strategies using wearable sensor data**  
 Fariborz Rahimi, Reza Eyvazpour, Behzad Nobahar, Mandar Jog, and Christian Duval   
